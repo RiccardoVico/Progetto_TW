@@ -2399,3 +2399,9 @@ a.fg-light:hover, a.fg-light:focus {
   background-color: #2F89FC;
 }
 /*# sourceMappingURL=theme.css.map */
+
+.title{
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
